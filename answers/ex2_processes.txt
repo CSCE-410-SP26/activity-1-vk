@@ -1,4 +1,4 @@
 $ sleep 5 &
-exec sleep failed
-$ps
+$ exec sleep failed
+ps
 exec ps failed
